@@ -1,0 +1,22 @@
+{
+  "joy": [
+    "That's amazing to hear! 😊",
+    "I'm so happy for you! Keep smiling."
+  ],
+  "sadness": [
+    "I'm here for you. It's okay to feel this way 💙",
+    "Take your time — you're not alone."
+  ],
+  "anger": [
+    "I understand that you're upset. Let's talk about it calmly.",
+    "Anger is a valid feeling. What triggered it?"
+  ],
+  "fear": [
+    "It’s okay to feel nervous. You’re doing your best.",
+    "You’re not alone — I believe in you."
+  ],
+  "neutral": [
+    "I'm listening. Tell me more.",
+    "Got it. I'm here with you."
+  ]
+}
