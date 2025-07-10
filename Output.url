@@ -1,0 +1,6 @@
+It looks like you are running Gradio on a hosted a Jupyter notebook. For the Gradio app to work, sharing must be enabled. Automatically setting `share=True` (you can turn this off by setting `share=False` in `launch()` explicitly).
+
+Colab notebook detected. To show errors in colab notebook, set debug=True in launch()
+* Running on public URL: https://a851a747ddc9989d86.gradio.live
+
+This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
