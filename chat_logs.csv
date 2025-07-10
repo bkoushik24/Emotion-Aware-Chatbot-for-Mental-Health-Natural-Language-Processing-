@@ -1,0 +1,12 @@
+timestamp,user_input,detected_emotion,bot_response
+2025-07-10 16:46:56.242635,neutral,anger,I understand that you're upset. Let's talk about it calmly.
+2025-07-10 17:11:43,neutral,anger,I understand that you're upset. Let's talk about it calmly.
+2025-07-10 17:15:41,Angry,anger,I understand that you're upset. Let's talk about it calmly.
+2025-07-10 17:15:59,Joy,anger,I understand that you're upset. Let's talk about it calmly.
+2025-07-10 17:16:20,I am feeling very hungry,joy,I'm so happy for you! Keep smiling.
+2025-07-10 17:16:55,Today I was Punished in school,joy,I'm so happy for you! Keep smiling.
+2025-07-10 17:17:18,My fighted with  my school friends today,joy,I'm so happy for you! Keep smiling.
+2025-07-10 17:17:37,I love my girlfriend,anger,Anger is a valid feeling. What triggered it?
+2025-07-10 17:17:58,She is very beautiful,joy,That's amazing to hear! 😊
+2025-07-10 17:18:18,She hurted me,anger,Anger is a valid feeling. What triggered it?
+2025-07-10 17:18:35,I cried a lot today for my wife,joy,That's amazing to hear! 😊
